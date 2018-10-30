@@ -1,3 +1,3 @@
 # Hello-World
 first git hub repository
-newbie to coding
+new to coding
